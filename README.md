@@ -262,7 +262,7 @@ mvn dependency:tree
 
 ---
 
-## 🎯 Summary
+## 🎯 Summary 🎯
 
 Maven simplifies the build process by:
 
