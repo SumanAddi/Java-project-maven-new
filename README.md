@@ -271,10 +271,4 @@ Maven simplifies the build process by:
 * Creating artifacts
 * Maintaining project consistency
 
----
 
-## 📌 Author
-
-SumanAddi
-
----
