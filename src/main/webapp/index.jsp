@@ -115,7 +115,7 @@
                 <img src="./assets/img/poster 1.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Loki</h2>
-                    <h6 class="des">Lorem sri sit consectetur elit.</h6>
+                    <h6 class="des">Lorem suman sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
